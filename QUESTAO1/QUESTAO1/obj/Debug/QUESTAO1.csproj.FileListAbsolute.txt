@@ -1,0 +1,11 @@
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\bin\Debug\QUESTAO1.exe.config
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\bin\Debug\QUESTAO1.exe
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\bin\Debug\QUESTAO1.pdb
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.csproj.AssemblyReference.cache
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.csproj.SuggestedBindingRedirects.cache
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.Form1.resources
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.Properties.Resources.resources
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.csproj.GenerateResource.cache
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.csproj.CoreCompileInputs.cache
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.exe
+H:\BD1_tri_2D2__45_VictorAlecrim\QUESTAO1\QUESTAO1\obj\Debug\QUESTAO1.pdb
